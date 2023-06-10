@@ -1,8 +1,10 @@
 # backlinks-search (b-search)
 
-Ever find yourself wanting to know which webpages link to the website you are currently reading? This add-on is for you! 
+![](demo.png)
 
-Heavily adapted from [side-view](https://github.com/mozilla/side-view), this add-on queries backlinks of the current url using google search and displays in the sidebar.
+Ever find yourself wanting to know which webpages link to the website you are currently reading? This simple add-on is for you! 
+
+Heavily adapted from [side-view](https://github.com/mozilla/side-view), this add-on queries backlinks of the current url using Google search and displays in the sidebar.
 
 ## Installing
 
