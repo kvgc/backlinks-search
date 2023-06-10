@@ -79,7 +79,7 @@ async function openUrl(url) {
   }).catch((error) => {
     // If the popup is not open this gives an error, but we don't care
   });
-  browser.sidebarAction.setPanel({panel: url});
+  browser.sidebarAction.setPanel({panel: "https://www.google.com/search?q=" + `"` +  url + `"`});
 }
 
 /* eslint-disable consistent-return */

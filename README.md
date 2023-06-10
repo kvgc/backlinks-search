@@ -1,8 +1,8 @@
-# Side View
+# backlinks-search (b-search)
 
-An experiment with opening mobile views of pages in the sidebar.
+Ever find yourself wanting to know which webpages link to the website you are currently reading? This add-on is for you! 
 
-[**Install from addons.mozilla.org**](https://addons.mozilla.org/en-US/firefox/addon/side-view/)
+Heavily adapted from [side-view](https://github.com/mozilla/side-view), this add-on queries backlinks of the current url using google search and displays in the sidebar.
 
 ## Installing
 
@@ -21,3 +21,5 @@ This adds a context menu item: **Open in sidebar** or **Open link in sidebar**. 
 ## Credits
 
 [Anthony_f](https://addons.mozilla.org/en-US/firefox/user/Anthony_f/)'s [Sidebar for Google Search](https://addons.mozilla.org/en-US/firefox/addon/sidebar-for-google-search/) inspired this add-on's approach.
+
+
