@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "backlinks-search",
-    "version": "v0.1",
+    "version": "0.1",
     "description": "Find backlinks of the current url using google search",
     "icons": {
       "48": "side-view.png",
@@ -17,7 +17,6 @@
     },
     "background": {
       "scripts": [
-        "build/buildSettings.js",
         "background.js"
       ]
     },
