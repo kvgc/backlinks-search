@@ -1,6 +1,6 @@
 # backlinks-search (b-search)
 
-![](demo.png)
+![](demo.gif)
 
 Ever find yourself wanting to know which webpages link to the website you are currently reading? This simple add-on is for you! 
 

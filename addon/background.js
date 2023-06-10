@@ -24,14 +24,14 @@ let hasSeenPrivateWarning = false;
 
 browser.contextMenus.create({
   id: "open-in-sidebar",
-  title: "Open in Side View",
+  title: "Open in backlinks-search",
   contexts: ["page", "tab", "bookmark"],
   documentUrlPatterns: ["<all_urls>"],
 });
 
 browser.contextMenus.create({
   id: "open-link-in-sidebar",
-  title: "Open link in Side View",
+  title: "Open link in backlinks-search",
   // FIXME: could add "bookmark", but have to fetch by info.bookmarkId
   contexts: ["link"],
   documentUrlPatterns: ["<all_urls>"],

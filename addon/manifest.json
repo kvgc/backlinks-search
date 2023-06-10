@@ -24,7 +24,7 @@
     "browser_action": {
       "default_icon": "side-view.svg",
       "default_popup": "popup.html",
-      "default_title": "Open Side View",
+      "default_title": "Open backlinks-search",
       "browser_style": true
     },
     "sidebar_action": {
@@ -36,7 +36,7 @@
     },
     "page_action": {
       "default_icon": "side-view.svg",
-      "default_title": "Open Side View",
+      "default_title": "Open backlinks-search",
       "show_matches": ["http://*/*", "https://*/*"],
       "browser_style": true
     },
